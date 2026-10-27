@@ -3,10 +3,6 @@
 
 Welcome to my GitHub! I'm always finding something new to learn about.
 
-<p align="center">
-  · · ────── ⋆⟡⋆ ─────── · ·
-</p>
-
 ### ⟡ Technical interests
 
 I'm interested in a range of areas in CS, from web development and software engineering to game development and AI/ML. I enjoy learning new things and exploring different ways to approach problems.
