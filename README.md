@@ -1,7 +1,7 @@
 
 ### Hi, I'm Fey :)
 
-Welcome to my GitHub! I'm always finding something new to learn about.
+Welcome to my GitHub! I'm always finding something new to learn about. Currently, I am developing a full-stack web application for organizing and archiving creative ideas.
 
 ### ⟡ Technical interests
 
